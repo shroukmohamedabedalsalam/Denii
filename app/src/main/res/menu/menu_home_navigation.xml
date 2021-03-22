@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="quoran"
+        android:id="@+id/quoran_navigation"
+        android:icon="@drawable/ic_quorrran"/>
+        <item android:title="hadeth"
+            android:id="@+id/hadeth_navigathion"
+            android:icon="@drawable/ic_hadeth"/>
+
+        <item android:title="sebha"
+android:id="@+id/sebha_navigathion"
+            android:icon="@drawable/ic_sebha"
+            />
+</menu>
